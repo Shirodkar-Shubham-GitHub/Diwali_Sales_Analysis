@@ -17,3 +17,18 @@ The following tools and technologies were utilized in this project:
 * **Matplotlib**: To create static visualizations and charts.
 * **Seaborn**: For advanced and aesthetically pleasing visualizations.
 * **Jupyter Notebook**: As the development environment for interactive data analysis.
+
+## Data Preprocessing:
+Data preprocessing is a critical step to ensure the dataset is clean and ready for analysis. The following steps were performed on the Diwali sales dataset:
+1. **Handling Missing Values**:
+   * Identified and filled or removed missing or null values to maintain data consistency.
+2. **Data Cleaning**:
+  *  Removed duplicates and irrelevant entries.
+  *  Standardized data formats for columns like dates and categorical values.
+3. **Data Transformation**:
+  *  Encoded categorical variables such as gender and marital status using label encoding for better analysis.
+  *  Transformed and aggregated numerical columns, such as sales and quantity, to extract meaningful insights.
+4. **Outlier Detectionv:
+  *  Identified and treated outliers in numerical fields like purchase amount to ensure accurate analysis.
+5. **Feature Selection**:
+  *  Selected relevant columns such as customer demographics, product details, and purchase amount for analysis.
