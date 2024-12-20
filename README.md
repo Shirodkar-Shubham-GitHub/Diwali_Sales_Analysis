@@ -40,6 +40,7 @@ Data preprocessing is a critical step to ensure the dataset is clean and ready f
   * Male customers preferred electronics and gadgets during the Diwali season.
 * **Visualization**:
   * A bar chart was used to compare total sales by gender.
+
 **2. Age Group**
 * **Insights**:
   * The age group 26-35 years had the highest purchase frequency and sales contribution.
