@@ -12,3 +12,8 @@ The primary objective of this project is to analyze Diwali sales data to uncover
 ## Tools and Technologies Used
 The following tools and technologies were utilized in this project:
 * **Python**: For data manipulation, analysis, and visualization.
+* **Pandas**: To clean, preprocess, and analyze the dataset efficiently.
+* **NumPy**: For numerical operations and handling large datasets.
+* **Matplotlib**: To create static visualizations and charts.
+* **Seaborn**: For advanced and aesthetically pleasing visualizations.
+* **Jupyter Notebook**: As the development environment for interactive data analysis.
