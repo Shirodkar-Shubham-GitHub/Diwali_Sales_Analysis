@@ -64,4 +64,17 @@ Data preprocessing is a critical step to ensure the dataset is clean and ready f
 * **Visualization**:
   * A grouped bar chart compared sales and amount for married and single customers.
 
+**5. Occupation**
+* **Insights**:
+  * Working professionals were the most active buyers, especially in electronics and high-value items.
+  * Students primarily purchased fashion and gadgets, with smaller transaction values.
+8 **Visualization**:
+  * A bar chart showed sales contributions by different occupations.
+
+**6. Product Category**
+* **Insights**:
+  * Electronics and home decor were the top-performing product categories, especially during festive offers and discounts.
+  * Fashion items like clothing and accessories also recorded high sales, especially among females and younger customers.
+* **Visualization**:
+  * A bar chart displayed the total sales for each product category.
 
