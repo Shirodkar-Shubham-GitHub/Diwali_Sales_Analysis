@@ -18,7 +18,7 @@ The following tools and technologies were utilized in this project:
 * **Seaborn**: For advanced and aesthetically pleasing visualizations.
 * **Jupyter Notebook**: As the development environment for interactive data analysis.
 
-## Data Preprocessing:
+## Data Preprocessing
 Data preprocessing is a critical step to ensure the dataset is clean and ready for analysis. The following steps were performed on the Diwali sales dataset:
 1. **Handling Missing Values**:
    * Identified and filled or removed missing or null values to maintain data consistency.
@@ -32,3 +32,11 @@ Data preprocessing is a critical step to ensure the dataset is clean and ready f
    * Identified and treated outliers in numerical fields like purchase amount to ensure accurate analysis.
 5. **Feature Selection**:
    * Selected relevant columns such as customer demographics, product details, and purchase amount for analysis.
+
+## Exploratory Data Analysis (EDA)
+**1. Gender**
+* **Insights**:
+  * Females contributed more to sales than males, especially in product categories like clothing and home decor.
+  * Male customers preferred electronics and gadgets during the Diwali season.
+* **Visualization**:
+  * A bar chart was used to compare total sales by gender.
