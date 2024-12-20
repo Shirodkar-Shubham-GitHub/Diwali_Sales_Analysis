@@ -61,4 +61,6 @@ Data preprocessing is a critical step to ensure the dataset is clean and ready f
   * Married customers contributed significantly more to total sales than single customers.
   * Married individuals showed higher interest in family-oriented products such as appliances, home decor, and clothing.
 * **Visualization**:
-  * A grouped bar chart compared sales for married and single customers.
+  * A grouped bar chart compared sales and amount for married and single customers.
+
+
