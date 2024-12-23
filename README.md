@@ -78,3 +78,5 @@ Data preprocessing is a critical step to ensure the dataset is clean and ready f
 * **Visualization**:
   * A bar chart displayed the total sales for each product category.
 
+## Conclusion
+By examining sales data from the event, the Diwali Sales Analysis initiative seeks to enhance consumer satisfaction and sales tactics. We may learn more about potential clients from a variety of demographics and determine the best-selling product categories and items by conducting data cleansing, exploratory data analysis, and visualization. During the Diwali season, these data can assist plan inventories, match customer expectations, and optimize marketing activities, which will increase sales and customer happiness.
