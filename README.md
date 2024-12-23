@@ -36,10 +36,3 @@ The primary objective of this project is to analyze Diwali sales data to uncover
    * Selected relevant columns such as customer demographics, product details, and purchase amount for analysis.
 
 ## Exploratory Data Analysis (EDA)
-1. Gender
-Insights:
-Females contributed more to sales than males, especially in product categories like clothing and home decor.
-Male customers preferred electronics and gadgets during the Diwali season.
-Visualization:
-A bar chart was used to compare total sales by gender.
-
