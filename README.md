@@ -27,7 +27,7 @@ The primary objective of this project is to analyze Diwali sales data to uncover
 
 3. **Data Transformation**:
    * Encoded categorical variables such as gender and marital status using label encoding for better analysis.
-   * Transformed and aggregated numerical columns, such as sales and quantity, to extract meaningful insights.
+   * Transformed and aggregated numerical columns, such as orders and amount, to extract meaningful insights.
 
 4. **Outlier Detection**:
    * Identified and treated outliers in numerical fields like purchase amount to ensure accurate analysis.
