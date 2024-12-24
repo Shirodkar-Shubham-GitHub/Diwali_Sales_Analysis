@@ -51,7 +51,7 @@ The primary objective of this project is to analyze Diwali sales data to uncover
   * A pie chart displayed the proportion of purchases and amount spent by different age groups.
 
 **3. State**
-* **Insights:
+* **Insights**:
   * States with metropolitan cities (e.g., Maharashtra, Delhi, Karnataka) recorded the highest sales, driven by larger populations and higher spending capacities.
   * Smaller states showed limited sales activity, likely due to lower customer density.
 * **Visualization**:
