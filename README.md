@@ -58,21 +58,21 @@ The primary objective of this project is to analyze Diwali sales data to uncover
   * A heatmap highlighted the distribution of sales across different states.
   * A grouped bar chart compared amount spent by different states.
 
-**5. Marital Status**
+**4. Marital Status**
 * **Insights**:
   * Married customers contributed significantly more to total sales than single customers.
   * Married individuals showed higher interest in family-oriented products such as appliances, home decor, and clothing.
 * **Visualization**:
   * A grouped bar chart compared sales for married and single customers.
 
-**6. Occupation**
+**5. Occupation**
 * **Insights**:
   * Working professionals were the most active buyers, especially in electronics and high-value items.
   * Students primarily purchased fashion and gadgets, with smaller transaction values.
 * **Visualization**:
   * A bar chart showed sales contributions by different occupations.
 
-**7. Product Category**
+**6. Product Category**
 * **Insights**:
   * Electronics and home decor were the top-performing product categories, especially during festive offers and discounts.
   * Fashion items like clothing and accessories also recorded high sales, especially among females and younger customers.
